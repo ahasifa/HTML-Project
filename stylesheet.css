@@ -74,6 +74,13 @@ header {
   text-align: center;
 }
 
+.lesson-wrapper2 {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #FFFFF9;
+  text-align: center;
+}
+
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
